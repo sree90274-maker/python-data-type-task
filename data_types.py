@@ -22,5 +22,5 @@ b=20
 print(a>b)
 print(a<b)
 
-numbers = (1,2,3,4,5)
-print(numbers)
+set_dt = {1,2,3,4,5}
+print(set_dt)
